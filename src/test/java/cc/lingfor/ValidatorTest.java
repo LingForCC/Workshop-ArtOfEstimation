@@ -83,6 +83,6 @@ public class ValidatorTest {
     //     boolean result = Validator.isInteger("01");
 
     //     //then
-    //     assertTrue(result);
+    //     assertTrue(!result);
     // }
 }
